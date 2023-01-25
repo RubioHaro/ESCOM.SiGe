@@ -1,0 +1,2 @@
+# Sistema Web para el apoyo de la Gestión Escolar de la Unidad Educativa Escuela Primaria Oficial Octavio Paz
+SiGe - Sistema de Gestión Escolar de la Unidad Educativa Escuela Primaria Oficial Octavio Paz es un sistema web que permite la gestión de los procesos administrativos y académicos de la institución educativa.
